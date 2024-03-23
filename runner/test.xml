@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="test">
+    <test name="Automated Tests">
+        <classes>
+            <class name="com.visionHealth.Web.tests.Tests" />
+        </classes>
+    </test>
+</suite>
